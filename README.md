@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning to get into open-source
 <!--
 **hagaddour/hagaddour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
